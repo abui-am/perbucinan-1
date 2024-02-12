@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 
 const Snowflake = ({ id }: { id: number }) => {
   const [animationDelay, setAnimationDelay] = useState('0s');
