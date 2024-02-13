@@ -25,7 +25,7 @@ function App() {
             marginBlockEnd: 0,
           }}
         >
-          Happy Valentine Cacaa ❤️
+          Happy Valentine Cacaa
         </h1>
 
         <h2
